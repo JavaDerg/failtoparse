@@ -1,0 +1,10 @@
+[package]
+name = "failtoparse"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nom = "7.1.1"
+itertools = "0.10.3"
+eyre = "0.6.8"
+color-eyre = "0.6.1"
